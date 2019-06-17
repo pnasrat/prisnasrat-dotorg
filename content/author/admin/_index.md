@@ -62,4 +62,4 @@ interests = [
 
 +++
 
-Pris Nasrat is a senior Davis Scholar at Wellesley College, a non-traditional age student completing her BA majoring in Anthropology.
+Pris Nasrat is recent graduate (BA Anthropology) of Wellesley College. At Wellesley she was Davis Scholar, a non-traditional age student.
