@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Anthropology Major"
+role = "Graduate Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Wellesley College", url = "" } ]
+organizations = [ { name = "Annenberg School of Communication", url = "https://www.asc.upenn.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Arab and Arab-American communities, art and performance."
+bio = "My research interests include Yemen, Arab and Arab-American communities, art and performance."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -24,8 +24,9 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Anthropology",
-  "Social History",
-  "Digital Humanities",
+  "Media",
+  "Communications",
+  "Diaspora"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,6 +35,10 @@ interests = [
 
 # List qualifications (such as academic degrees)
 # [[education.courses]]
+
+[[education.courses]]
+  course = "PhD Communication"
+  institution = "Annenberg School for Communication, University of Pennsylvania"
 
 [[education.courses]]
   course = "BA major Anthropology"
@@ -63,5 +68,7 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-
-Pris Nasrat is recent graduate (BA Anthropology) of Wellesley College. At Wellesley she was Davis Scholar, a non-traditional age student.
+Pris Nasrat is a doctoral student at the Annenberg School for Communication.
+Her research interests include race, gender, sexuality, social movements,
+performance, and media. She is a multimodal performance artist who blurs the
+lines between scholarship and performance 
