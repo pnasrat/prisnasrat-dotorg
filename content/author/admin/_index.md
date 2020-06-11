@@ -37,7 +37,7 @@ interests = [
 # [[education.courses]]
 
 [[education.courses]]
-  course = "PhD Communication"
+  course = "PhD Communication (current student)"
   institution = "Annenberg School for Communication, University of Pennsylvania"
 
 [[education.courses]]
